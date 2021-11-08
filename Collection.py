@@ -121,7 +121,7 @@ while True:
 Delete [Name (Group)] - Remove an existing Group
 Show [Name (Group)] - Shows all objects in a Group
 Find [Name (Group)] [Name (Object)] - Finds a specific object in a Group (must be exact name)
-Sort [Name (Group)] - Sorts by Name the Group
+Sort [Name (Group)] - Sorts the Group Alphabetically
 Add [Name (Group)] [Name (Object)] - Adds an Object into a Group
 Remove [Name (Group)] [Name (Object)] - Removes an Object from a Group
 Reset All - Delete all records
